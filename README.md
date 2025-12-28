@@ -1,5 +1,11 @@
 # TablePlus Database Client Tools
-
+### Versions
+* 3.5.2.0 (Build 124)
+* 6.2.2 (Build 290)
+* 6.4.0 (Build 300)
+* 6.6.2 (Build 322)
+* 6.7.0 (Build 324)
+* 6.7.1 (Build 326)
 # For New Versions Check Shared Folder URL
 
     ┌─────────────────────────────────────────────────────────┐
